@@ -21,5 +21,8 @@ Second. You will need to give to the code some input parameters along the proced
                                                          So if you want to analize the three fields you need to enter 1,2,3
                                                          If you want to analize gravity and friction you will need enter 1,3
                                                The mode you want to study (k), if you want to study the first mode , enter 1
+                                               
+note : It might be that you need to install the package -forge basemap data hire- even if you have basemap already installed.
+to install run in the terminal --> conda install -c conda-forge basemap-data-hires
                                             
 
